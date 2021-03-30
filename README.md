@@ -11,3 +11,6 @@ directly in front of it. If there is no yellow line directly in front of it, it 
 is spotted, it will move towards it until the yellow line is directly in front of it. When the yellow line is directly in front of it, the wafflebot will begin to follow the line.
 Once the robot reaches the end of the line, it will rotate around and follow the yellow line in the opposite direction. The robot will continue to repeat the last two steps until
 the program has been terminated.
+
+## Video Demonstration
+https://drive.google.com/file/d/1cdc1yIa2zvzS-jpOmWqf_urmHvpf0Jqg/view?usp=sharing
